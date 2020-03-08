@@ -1,0 +1,48 @@
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe.config
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\bin\Debug\Trabalho1.pdb
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\obj\Debug\Trabalho1.Form1.resources
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\obj\Debug\Trabalho1.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\obj\Debug\Trabalho1.exe
+C:\Users\Aluno\source\repos\Trabalho1\Trabalho1\obj\Debug\Trabalho1.pdb
+D:\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe.config
+D:\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe
+D:\Trabalho1\Trabalho1\bin\Debug\Trabalho1.pdb
+D:\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache
+D:\Trabalho1\Trabalho1\obj\Debug\Trabalho1.Form1.resources
+D:\Trabalho1\Trabalho1\obj\Debug\Trabalho1.Properties.Resources.resources
+D:\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.GenerateResource.cache
+D:\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.CoreCompileInputs.cache
+D:\Trabalho1\Trabalho1\obj\Debug\Trabalho1.exe
+D:\Trabalho1\Trabalho1\obj\Debug\Trabalho1.pdb
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\bin\Debug\Trabalho1.exe.config
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\bin\Debug\Trabalho1.exe
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\bin\Debug\Trabalho1.pdb
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\obj\Debug\Trabalho1.Form1.resources
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\obj\Debug\Trabalho1.Properties.Resources.resources
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\obj\Debug\Trabalho1.csproj.GenerateResource.cache
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\obj\Debug\Trabalho1.exe
+C:\Users\Renan\Downloads\Nova pasta\Trabalho1\obj\Debug\Trabalho1.pdb
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\bin\Debug\Trabalho1.exe.config
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\bin\Debug\Trabalho1.exe
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\bin\Debug\Trabalho1.pdb
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\obj\Debug\Trabalho1.Form1.resources
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\obj\Debug\Trabalho1.Properties.Resources.resources
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\obj\Debug\Trabalho1.csproj.GenerateResource.cache
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\obj\Debug\Trabalho1.exe
+C:\Users\Renan\source\repos\Nova pasta\Trabalho1\obj\Debug\Trabalho1.pdb
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\bin\Debug\Trabalho1.exe.config
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\bin\Debug\Trabalho1.exe
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\bin\Debug\Trabalho1.pdb
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\obj\Debug\Trabalho1.Form1.resources
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\obj\Debug\Trabalho1.Properties.Resources.resources
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\obj\Debug\Trabalho1.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\obj\Debug\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\obj\Debug\Trabalho1.exe
+C:\Users\Rafael\Desktop\SimuLacro\Trabalho1\obj\Debug\Trabalho1.pdb
